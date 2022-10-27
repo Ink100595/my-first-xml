@@ -29,4 +29,14 @@
     <price>$15</price>
     <calorie>280</calorie>
   </food>
+  <food>
+    <name>French Fried</name>
+    <price>$15</price>
+    <calorie>480</calorie>
+  </food>
+  <food>
+    <name>ข้าวเหนียวมะม่วง</name>
+    <price>$30</price>
+    <calorie>700</calorie>
+  </food>
 </menu>
